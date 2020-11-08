@@ -5,3 +5,5 @@
 
 # Unzip the folder in the resources folder of your alt:V server
 # Add show-logo to the resource.cfg of your gamemode under deps
+
+# Picture : https://prnt.sc/vfoe5t
